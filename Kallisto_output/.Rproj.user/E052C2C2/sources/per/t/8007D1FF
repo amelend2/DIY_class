@@ -1,0 +1,26 @@
+{
+    "id": "8007D1FF",
+    "path": "~/Desktop/course_dataset/Kallisto_output/Step1_TxImport.R",
+    "project_path": "Step1_TxImport.R",
+    "type": "r_source",
+    "hash": "3427899726",
+    "contents": "",
+    "dirty": false,
+    "created": 1707322053907.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707317463,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707323918035,
+    "read_only": false,
+    "read_only_alternatives": []
+}
