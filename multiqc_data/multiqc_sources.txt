@@ -1,0 +1,22 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	Kallisto | SRR8668759	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668759.log
+Kallisto	all_sections	Kallisto | SRR8668771	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668771.log
+Kallisto	all_sections	Kallisto | SRR8668758	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668758.log
+Kallisto	all_sections	Kallisto | SRR8668772	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668772.log
+Kallisto	all_sections	Kallisto | SRR8668773	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668773.log
+Kallisto	all_sections	Kallisto | SRR8668774	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668774.log
+Kallisto	all_sections	Kallisto | SRR8668756	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668756.log
+Kallisto	all_sections	Kallisto | SRR8668757	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668757.log
+Kallisto	all_sections	Kallisto | SRR8668755	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668755.log
+Kallisto	all_sections	Kallisto | SRR8668769	/Users/amelend2/Desktop/course_dataset/Kallisto/SRR8668769.log
+FastQC	all_sections	fastqc | SRR8668757	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668757_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668771	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668771_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668774	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668774_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668755_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668758	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668773	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668773_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755_1M_subsample	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668769	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668769_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668756	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668756_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668759	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668772	/Users/amelend2/Desktop/course_dataset/fastqc/SRR8668772_fastqc.zip
